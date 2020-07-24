@@ -11,6 +11,22 @@ It is said that the human face is based on Phi and Golden Ratio proportions and 
 
 Using the existing studies, this project was created for Jaipur's biggest cultural fest Manipal University Jaipur organizes, called, Oneiros.
 
+It all started with &mdash; **what if** we set-up a camera in the event where anyone can participate by facing the camera and can get rated, registering their scores on a wall.
+
+### Acknowledgments
+
+I read articles, I found sample snippets, combined all of them to build something unique.
+
+**DON'T PLAGIARIZE** _for fuck's sake!_
+
+The point I'm trying to make is, use your imagination to build upon this project. I have some wild ideas to share &mdash;
+
+#### Wild Ideas
+
+- Integrate the belle-spotter on a drone or a robot i.e. rate me robot
+- Make an android app which can be to scan faces
+- Make a web-app that can be used to hold a contest?
+
 ### Paradox
 
 A 5x3 index card, for example, meets the Golden Ratio standard.
