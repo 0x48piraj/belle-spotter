@@ -1,7 +1,7 @@
 # Belle Spotter
 
 <p align="center">
-    <img alt="Belle Spotter Logo" src="static/golden-ratio.png"><br>
+    <img alt="Belle Spotter Logo" src="https://github.com/user-attachments/assets/9486e8fa-803d-4f53-b639-d0b358967016"><br>
     <i>Finding beauty in chaos using Golden Ratio.</i>
 </p>
 
@@ -15,17 +15,15 @@ It all started with &mdash; **what if** we set-up a camera in the event where an
 
 ### Acknowledgments
 
-I read articles, I found sample snippets, combined all of them to build something unique.
+I read articles, found sample snippets, combined all of them to build something different.
 
-**DON'T PLAGIARIZE** _for fuck's sake!_
+The point I'm trying to make is, use your imagination to build upon this project. I have some ideas to share &mdash;
 
-The point I'm trying to make is, use your imagination to build upon this project. I have some wild ideas to share &mdash;
+#### Ideas
 
-#### Wild Ideas
-
-- Integrate the belle-spotter on a drone or a robot i.e. rate me robot
-- Make an android app which can be to scan faces
-- Make a web-app that can be used to hold a contest?
+- [x] Integrate belle-spotter on a robot i.e. rate me robot
+- [ ] An app which can be to scan faces
+- [ ] Building a backend to host contests / displaying top 100 leaderboard.
 
 ### Paradox
 
@@ -43,11 +41,12 @@ A mathematical quirk, with no relationship to any objective beauty standard &mda
 
 One way you can use the Golden Ratio is to draw a spiral shape within a rectangle. That shape is sometimes superimposed on images along with the claim that they are somehow "aesthetically perfect". The parody Twitter account "[Fibonacci Perfection](https://twitter.com/FibonacciSpiral)" superimposes the golden rectangle on absurd situations, revealing how aesthetically imperfect supposed "golden" images often are.
 
-![](static/FibonacciSpiral_01.png)
-![](static/FibonacciSpiral_02.png)
+![](https://github.com/user-attachments/assets/755c1838-5c6f-4bbf-894e-f6e7e882fa49)
+![](https://github.com/user-attachments/assets/6820b83a-af16-4b0b-90cc-1d515f3dca55)
 
 Individual people _vary wildly_ in terms of beauty standards &mdash; so much so that unless you cherry-pick studies it's hard to make much sense at all of the available science on what makes people more or less attractive. There is certainly no evidence that a particular mathematically-derived lip shape or eyebrow-archness is somehow a key toward unlocking a universal human beauty response.
 
 #### References
 
+- [Golden ratio - Wikipedia](https://en.wikipedia.org/wiki/Golden_ratio)
 - [Phi: The Golden Ratio](https://www.livescience.com/37704-phi-golden-ratio.html)
