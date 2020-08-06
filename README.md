@@ -21,7 +21,7 @@ The point I'm trying to make is, use your imagination to build upon this project
 
 #### Ideas
 
-- [x] Integrate belle-spotter on a robot i.e. rate me robot
+- [x] Integrate belle-spotter on a robot i.e. rate me robot ([hardware setup](hardware/README.md))
 - [ ] An app which can be to scan faces
 - [ ] Building a backend to host contests / displaying top 100 leaderboard.
 
